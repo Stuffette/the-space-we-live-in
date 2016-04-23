@@ -17,6 +17,6 @@ Using Kinnect Depth sensors and footage from particle tracking cloud chambers, w
 
 ## EXTERNAL LINKS
 
-    * Electron trails in a cloud chamber "Contrails" https://vimeo.com/163864166
+    * Electron trails in a cloud chamber "Contrails" by Lucy Pullen https://vimeo.com/163864166
     * Traditional representation 3D Stereogram of a Calabi Yau Manifold https://www.youtube.com/watch?v=_fzxshvzK6s
     * Another visualization of Calabi Yau Manifolds https://www.youtube.com/watch?v=h9MS9i-CdfY
