@@ -9,7 +9,7 @@ TEAM MEMBERS
 
 ## PROBLEM
 
-Spacetime is complex. We want to explain the multi-layered space aspect of String Theory in a creative and understandable way.
+Spacetime is complex. We want to explain the multi-dimensional space in a creative and understandable way.
 
 ## PURPOSE
 
