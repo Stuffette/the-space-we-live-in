@@ -3,9 +3,10 @@
 [project] team "manifold mixer" developing a depth color sensor project to explain space concepts
 TEAM MEMBERS
 
-* Alia
-* Evan
-* Lucy
+* Alia Taliaferrow
+* Evan Misshula
+* Lucy Pullen
+* Stuart Lynn
 
 ## PROBLEM
 
