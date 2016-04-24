@@ -1,7 +1,8 @@
 ## the-space-we-live-in
 
 [project] team "manifold mixer" developing a depth color sensor project to explain space concepts
-TEAM MEMBERS
+
+## TEAM MEMBERS
 
 * Alia Taliaferrow
 * Evan Misshula
@@ -10,11 +11,11 @@ TEAM MEMBERS
 
 ## PROBLEM
 
-Spacetime is complex. We want to explain the multi-dimensional space in a creative and understandable way.
+Spacetime is complex. We want to explain multi-dimensional space in a creative and understandable way.
 
 ## PURPOSE
 
-Using Kinnect Depth sensors and footage from particle tracking cloud chambers, we want to represent an artistic representation of the multi dimensional nature of Spacetime. We want the viewer to see how they can visualize particles, and by exstension themselves, in a space with hidden dimensions all around them.
+Using Kinnect Depth sensors and footage from particle tracking cloud chambers, we want to use this artistic representation of the hidden nature of Spacetime. We want the viewer to imagine existing in space that contains hidden dimensions.
 
 ## EXTERNAL LINKS
 
